@@ -15,9 +15,8 @@ I’m a Computer Science student at **Florida International University (FIU)** w
 My background blends analytical thinking, creative development, and real-world discipline — translating complex ideas into working, maintainable software.
 
 I enjoy working across:
-- **Backend development** (C, Python, Node.js, SQL)
+- **Backend development** (Typescript, Python, Node.js, SQL)
 - **Frontend & UI design** (React, HTML/CSS, Tailwind)
-- **Game systems** (Roblox Luau, modular architecture, data-driven design)
 
 ---
 
@@ -37,28 +36,20 @@ I enjoy working across:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-000000?style=flat&logo=roblox&logoColor=white)
 
 ---
-
-### 🧩 Highlighted Projects
-- **[Incursion Point](https://github.com/)** — A tactical narrative-driven game exploring conflict and survival across a fictional East African archipelago.  
-- **Clothing Factory Tycoon** — A Roblox experience featuring dynamic economies, ranking systems, and procedural rarity mechanics.  
-- **PetPal (FIU HCI Project)** — A mobile app prototype focused on pet care tracking, reminders, and community sharing.
-
----
-
+<!--
 ### 📊 GitHub Analytics
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=kylequesadaa&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylequesadaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+-->
 ---
 
 ### 🛰️ Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/kylequesada/"><img src="https://img.shields.io/badge/LinkedIn-Kyle%20Quesada-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kyleq/"><img src="https://img.shields.io/badge/LinkedIn-Kyle%20Quesada-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://kylequesada.com/"><img src="https://img.shields.io/badge/Portfolio-kylequesada.com-1E90FF?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
