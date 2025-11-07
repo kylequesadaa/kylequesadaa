@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=180&section=header&text=Kyle%20Quesada&fontSize=40&fontColor=ffffff&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=0:86C645,100:357630&text=Kyle%20Quesada&textBg=false&fontSize=50&section=header&animation=fadeIn&fontColor=FFF" alt="header"/>
 </p>
 
 <p align="center">
@@ -52,13 +52,6 @@ I enjoy working across:
   <a href="https://www.linkedin.com/in/kyleq/"><img src="https://img.shields.io/badge/LinkedIn-Kyle%20Quesada-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
  <!-- <a href="https://kylequesada.com/"><img src="https://img.shields.io/badge/Portfolio-kylequesada.com-1E90FF?style=flat&logo=google-chrome&logoColor=white" /></a> -->
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer" alt="footer"/>
-</p>
-
 
 <!--
 **kylequesadaa/kylequesadaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
