@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>Computer Science Student at Florida International University</b><br>
-  <i>Building efficient systems and immersive digital experiences.</i>
+  <i>My goal is to merge creativity and efficient engineering to craft meaningful and immersive digital experiences</i>
 </p>
 
 ---
