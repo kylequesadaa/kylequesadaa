@@ -50,7 +50,7 @@ I enjoy working across:
 ### 🛰️ Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/kyleq/"><img src="https://img.shields.io/badge/LinkedIn-Kyle%20Quesada-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kylequesada.com/"><img src="https://img.shields.io/badge/Portfolio-kylequesada.com-1E90FF?style=flat&logo=google-chrome&logoColor=white" /></a>
+ <!-- <a href="https://kylequesada.com/"><img src="https://img.shields.io/badge/Portfolio-kylequesada.com-1E90FF?style=flat&logo=google-chrome&logoColor=white" /></a> -->
 </p>
 
 ---
